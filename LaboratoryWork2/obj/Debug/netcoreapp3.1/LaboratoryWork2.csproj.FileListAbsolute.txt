@@ -1,0 +1,11 @@
+C:\Users\Dmitr\source\repos\LaboratoryWork2\LaboratoryWork2\bin\Debug\netcoreapp3.1\LaboratoryWork2.exe
+C:\Users\Dmitr\source\repos\LaboratoryWork2\LaboratoryWork2\bin\Debug\netcoreapp3.1\LaboratoryWork2.deps.json
+C:\Users\Dmitr\source\repos\LaboratoryWork2\LaboratoryWork2\bin\Debug\netcoreapp3.1\LaboratoryWork2.runtimeconfig.json
+C:\Users\Dmitr\source\repos\LaboratoryWork2\LaboratoryWork2\bin\Debug\netcoreapp3.1\LaboratoryWork2.runtimeconfig.dev.json
+C:\Users\Dmitr\source\repos\LaboratoryWork2\LaboratoryWork2\bin\Debug\netcoreapp3.1\LaboratoryWork2.dll
+C:\Users\Dmitr\source\repos\LaboratoryWork2\LaboratoryWork2\bin\Debug\netcoreapp3.1\LaboratoryWork2.pdb
+C:\Users\Dmitr\source\repos\LaboratoryWork2\LaboratoryWork2\obj\Debug\netcoreapp3.1\LaboratoryWork2.csprojAssemblyReference.cache
+C:\Users\Dmitr\source\repos\LaboratoryWork2\LaboratoryWork2\obj\Debug\netcoreapp3.1\LaboratoryWork2.AssemblyInfoInputs.cache
+C:\Users\Dmitr\source\repos\LaboratoryWork2\LaboratoryWork2\obj\Debug\netcoreapp3.1\LaboratoryWork2.AssemblyInfo.cs
+C:\Users\Dmitr\source\repos\LaboratoryWork2\LaboratoryWork2\obj\Debug\netcoreapp3.1\LaboratoryWork2.dll
+C:\Users\Dmitr\source\repos\LaboratoryWork2\LaboratoryWork2\obj\Debug\netcoreapp3.1\LaboratoryWork2.pdb
