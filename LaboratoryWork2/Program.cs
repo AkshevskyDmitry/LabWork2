@@ -36,7 +36,7 @@ namespace LaboratoryWork2
                 int n = Convert.ToInt32(sr.ReadLine());
                 Persona[] men = new Persona[n];
                 XmlSerializer fmen = new XmlSerializer(typeof(Persona[]));
-                FileStream fs = new FileStream("C:\\Users\\Dmitr\\Desktop\\XMLout.xml", FileMode.OpenOrCreate);
+                FileStream fs = new FileStream("C:\\Users\\Dmitr\\Desktop\\XMLout.xml", FileMode.Create);
                 fmen.Serialize(fs, men);
                 for (int i = 0; i < n; i++)
                 {
@@ -62,6 +62,7 @@ namespace LaboratoryWork2
                             break;
                     }
                 }
+                fs.Close();
                 Trace.Indent();
                 foreach (Persona human in men)
                 {
@@ -126,7 +127,7 @@ namespace LaboratoryWork2
             }
             public override int CurrentAge()
             {
-                return (int)DateTime.Now.Subtract(DateOfBith).Days / 365;               
+                return (int)DateTime.Now.Subtract(DateOfBith).Days / 365;      
             }
         }
         /// <summary>
